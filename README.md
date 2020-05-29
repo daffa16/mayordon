@@ -1,12 +1,5 @@
 # FACEBOOK CRACKER
 ![FACEBOOK CRACKER](https://github.com/zettamus/facebook-cracker/blob/master/mbf.jpg?raw=true)
-<style>
-        * {
-                background-color: #3b3b3b;
-                color: white;
-                font-family:arial;
-        }
-</style>
 ## How to install
 
 ```
@@ -29,7 +22,7 @@ python mbf.py free
 * get id from your list friend
 * get id from like on post
 * get id by search name
-* get id from group (only take 100 IDs)
+* get id from group (only can take 100 IDs)
 * get id from friend list friend
 * re-check results
 * fast cracking
